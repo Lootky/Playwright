@@ -88,10 +88,6 @@ def test_listen_network(page: Page):
     page.on("response", lambda response: print("<<", response.status, response.url))
     page.goto('https://osinit.ru/')
 
-def test_mock_tags(page):
-    page.route("**/api/tags", lambda route: route.fulfill(path="data.json"))
-    page.goto('https://demo.realworld.io/')
-
 def test_api(page: Page):
     data = [
               {
