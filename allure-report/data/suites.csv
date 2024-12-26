@@ -1,4 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","675","test_login_success[chromium-admin-admin]","Playwright.tests","Wed Dec 25 17:51:17 CET 2024","passed","Wed Dec 25 17:51:17 CET 2024","","test_login","",""
-"","765","test_login_failure[chromium]","Playwright.tests","Wed Dec 25 17:51:15 CET 2024","passed","Wed Dec 25 17:51:16 CET 2024","","test_login","",""
-"","769","test_login_success[chromium-user-user]","Playwright.tests","Wed Dec 25 17:51:16 CET 2024","passed","Wed Dec 25 17:51:16 CET 2024","","test_login","",""
